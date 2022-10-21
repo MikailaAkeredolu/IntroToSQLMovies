@@ -28,4 +28,4 @@ Monsters Inc.|	92|	Animation|	8.1|	G
 
 - That last query isn't very informative for ratings that only have 1 entry. Use a HAVING COUNT(*) > 1 clause to only show ratings with multiple movies showing.
 
-Let's make our movie list more child-friendly. Delete all entries that have a rating of R. Remember to record your query in a README.md file
+- Let's make our movie list more child-friendly. Delete all entries that have a rating of R. Remember to record your query in a README.md file
