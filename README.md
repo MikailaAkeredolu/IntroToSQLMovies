@@ -9,7 +9,7 @@ Waltz With Bashir|	90|	Documentary|	8.0|	R
 Spaceballs|	96|	Comedy|	7.1|	PG
 Monsters Inc.|	92|	Animation|	8.1|	G
 
-## Answer the 10 questions below with SQL
+# Answer the 10 questions below with SQL
 
 - Add a few more movies of your choosing.
 
