@@ -9,7 +9,7 @@ Waltz With Bashir|	90|	Documentary|	8.0|	R
 Spaceballs|	96|	Comedy|	7.1|	PG
 Monsters Inc.|	92|	Animation|	8.1|	G
 
-# Answer the 10 questions below with SQL
+# Answer the questions below with SQL
 
 - Add a few more movies of your choosing.
 
@@ -30,3 +30,9 @@ Monsters Inc.|	92|	Animation|	8.1|	G
 - That last query isn't very informative for ratings that only have 1 entry. Use a HAVING COUNT(*) > 1 clause to only show ratings with multiple movies showing.
 
 - Make the movie list more child-friendly. Delete all entries that have a rating of R. Remember to record your query in a README.md file
+
+> Remember to record your query in a README.md file before the last two commands below
+
+- Delete the Movies Table
+
+- Delete the Database
