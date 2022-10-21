@@ -11,7 +11,7 @@ Monsters Inc.|	92|	Animation|	8.1|	G
 
 # Answer the questions below with SQL
 
-- Add a few more movies of your choosing.
+- Add two more movies of your choosing to the table.
 
 - Create a query to find all movies in the Sci-Fi genre.
 
