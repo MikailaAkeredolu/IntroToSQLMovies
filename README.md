@@ -23,7 +23,7 @@ Monsters Inc.|	92|	Animation|	8.1|	G
 
 - There's been a data entry mistake; Starship Troopers is actually rated R, not PG-13. Create a query that finds the movie by its title and changes its rating to R.
 
-- ### Show the ID number and rating of all of the Horror and Documentary movies in the database. Do this in only one query or two queries.
+- Show the ID number and rating of all of the Horror and Documentary movies in the database. Do this in only one query or two queries if you can!
 
 - This time let's find the average, maximum, and minimum IMDB score for movies of each rating.
 
